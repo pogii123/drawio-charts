@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T17:49:02.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="lKWdca_OtrBwJwg8ZGu5" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T18:10:54.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="CB7pREP9n-dtsZLu9FI5" version="23.0.2" type="github">
   <diagram name="Seite-1" id="LmPy3jOl3H3XXLazsRag">
     <mxGraphModel dx="914" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-65" value="Deploy MetalLB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="479" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-66" value="Deploy Ingress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-66" value="Deploy Ingress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="559" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-67" value="Automatic SSL Certificate Issuing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -822,6 +822,19 @@
             <Array as="points">
               <mxPoint x="1040" y="909" />
               <mxPoint x="1060" y="909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKozhylyw5wsPVngrMd2-1" value="Create a Hello World App using Ingress and SSL as a PoC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GKozhylyw5wsPVngrMd2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="670" as="sourcePoint" />
+            <mxPoint x="520" y="749" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="749" />
+              <mxPoint x="520" y="749" />
             </Array>
           </mxGeometry>
         </mxCell>
