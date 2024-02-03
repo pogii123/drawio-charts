@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T17:42:34.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="zol2DO7XDUV6ll4D7FxV" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T17:43:34.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="v6PPZX8NphEYJ_Hwz5Gt" version="23.0.2" type="github">
   <diagram name="Seite-1" id="LmPy3jOl3H3XXLazsRag">
-    <mxGraphModel dx="1105" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,13 +799,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-1" value="Monitoring Stack Persistence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-1" value="Monitoring Stack Persistence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="879" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-2" value="Monitoring Stack Mattermost Notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-2" value="Monitoring Stack Mattermost Notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.093;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gIQTqbDxIPekja-X_GCL-16">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.093;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="gIQTqbDxIPekja-X_GCL-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="799" as="sourcePoint" />
             <mxPoint x="1060" y="989" as="targetPoint" />
@@ -814,7 +814,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="719" as="sourcePoint" />
             <mxPoint x="1060" y="909" as="targetPoint" />
