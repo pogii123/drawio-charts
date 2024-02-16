@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T22:14:19.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="J3He-80eS51xmL9cICiK" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T12:44:54.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="JDT1B848xxx0kcxkEECK" version="23.1.1" type="github">
   <diagram name="Seite-1" id="LmPy3jOl3H3XXLazsRag">
     <mxGraphModel dx="1569" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,13 +521,13 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-96" value="ELK Stack Persistence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="319" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-97" value="ELK Stack JSON Format" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-97" value="ELK Stack JSON Format" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1060" y="399" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-98" value="ELK Stack Ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="479" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-99" value="Monitoring Stack Deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-99" value="Monitoring Stack Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1060" y="559" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-100" value="Monitoring Stack Ingresses" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -582,10 +582,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-106" value="Enable ServiceMonitor for Ingress Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-106" value="Enable ServiceMonitor for Ingress Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1060" y="719" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-107" value="Scrape Ingress ServiceMonitor as a PoC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-107" value="Scrape Ingress ServiceMonitor as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1060" y="799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -620,7 +620,7 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-115" value="Read and understand service meshes and Istio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-116" value="Deploy Istio inside Argo seed job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-116" value="Deploy Istio inside Argo seed job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="319" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-117" value="Deploy Istio Ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -734,7 +734,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3reOQoOGrtMICRlbZ3Da-1" value="Deploy a Hello World App where you use Service Mashes with Istio as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="3reOQoOGrtMICRlbZ3Da-1" value="Deploy a Hello World App where you use Service Mashes with Istio as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1240" y="639" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3reOQoOGrtMICRlbZ3Da-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
