@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T15:51:41.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="0WMOrP5dyd7e6gnxnsTm" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:48:49.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="uOY7sJMAOebwzpistumk" version="24.0.9" type="github">
   <diagram name="Seite-1" id="LmPy3jOl3H3XXLazsRag">
-    <mxGraphModel dx="1569" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-66" value="Deploy Ingress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="559" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-67" value="Automatic SSL Certificate Issuing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-67" value="Automatic SSL Certificate Issuing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="639" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gIQTqbDxIPekja-X_GCL-63" edge="1">
@@ -503,7 +503,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-93" value="Check out Rook and deploy via Helm Chart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-93" value="Check out Rook and deploy via Helm Chart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="319" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gIQTqbDxIPekja-X_GCL-95" edge="1">
@@ -524,7 +524,7 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-97" value="ELK Stack JSON Format" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1060" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-98" value="ELK Stack Ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-98" value="ELK Stack Ingress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1060" y="479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-99" value="Monitoring Stack Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -623,13 +623,13 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-116" value="Deploy Istio inside Argo seed job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="319" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-117" value="Deploy Istio Ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-117" value="Deploy Istio Ingress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-118" value="Deploy Istio Ingress Certificates" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-118" value="Deploy Istio Ingress Certificates" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1240" y="479" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-119" value="Create a comprehensive documentation on service meshes, Istio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-119" value="Create a comprehensive documentation on service meshes, Istio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="559" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gIQTqbDxIPekja-X_GCL-116" edge="1">
@@ -680,7 +680,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-125" value="Read and understand Secret Management and Vault" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-125" value="Read and understand Secret Management and Vault" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1420" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-126" value="Look out for future features of Vault which could be implemented" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -692,7 +692,7 @@
         <mxCell id="gIQTqbDxIPekja-X_GCL-128" value="Deploy Vault Ingress + Certificates" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gIQTqbDxIPekja-X_GCL-130" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Create a comprehensive documentation on dynamic secret management and Vault&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIQTqbDxIPekja-X_GCL-130" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Create a comprehensive documentation on dynamic secret management and Vault&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1420" y="479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIQTqbDxIPekja-X_GCL-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="gIQTqbDxIPekja-X_GCL-126" edge="1">
@@ -734,7 +734,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3reOQoOGrtMICRlbZ3Da-1" value="Deploy a Hello World App where you use Service Mashes with Istio as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="3reOQoOGrtMICRlbZ3Da-1" value="Deploy a Hello World App where you use Service Mashes with Istio as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="639" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3reOQoOGrtMICRlbZ3Da-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -747,7 +747,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3reOQoOGrtMICRlbZ3Da-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deploy a Hello World app using local storage class&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="3reOQoOGrtMICRlbZ3Da-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deploy a Hello World app using local storage class&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="880" y="479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3reOQoOGrtMICRlbZ3Da-4" value="Deploy a Hello World app using rook storage class" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -786,10 +786,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-1" value="Monitoring Stack Persistence" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-1" value="Monitoring Stack Persistence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1060" y="879" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-2" value="Monitoring Stack Mattermost Notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8Y-q3Fz86KmuRA-FSIVi-2" value="Monitoring Stack Mattermost Notifications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1060" y="959" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Y-q3Fz86KmuRA-FSIVi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -812,7 +812,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKozhylyw5wsPVngrMd2-1" value="Create a Hello World App using Ingress and SSL as a PoC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GKozhylyw5wsPVngrMd2-1" value="Create a Hello World App using Ingress and SSL as a PoC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GKozhylyw5wsPVngrMd2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -838,10 +838,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TIrPXGO8SsKRi_SzpvXb-1" value="Add node artpc19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TIrPXGO8SsKRi_SzpvXb-1" value="Add node artpc19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIrPXGO8SsKRi_SzpvXb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="TIrPXGO8SsKRi_SzpvXb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="750" as="sourcePoint" />
             <mxPoint x="160" y="829" as="targetPoint" />
