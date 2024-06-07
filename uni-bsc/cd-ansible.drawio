@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T18:54:22.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WLRK5W55m6gL65w1tnnU" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T19:01:21.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VY0xo6u325u3i55iOflS" version="24.4.14" type="github">
   <diagram name="Seite-1" id="Og4ClNEy-E3zu0bA_nxo">
     <mxGraphModel dx="1481" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="W81J2JQ0MfVwSuoms129-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="400" y="420" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="W81J2JQ0MfVwSuoms129-16" value="artpc19 (node)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-35">
+        <mxCell id="W81J2JQ0MfVwSuoms129-16" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;b&gt;artpc19 (node)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-35">
           <mxGeometry width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="W81J2JQ0MfVwSuoms129-28" value="«component»&lt;br&gt;&lt;b&gt;System Configuration&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-35">
@@ -66,7 +66,7 @@
         <mxCell id="W81J2JQ0MfVwSuoms129-36" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="610" y="220" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="W81J2JQ0MfVwSuoms129-37" value="artpc18 (node)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-36">
+        <mxCell id="W81J2JQ0MfVwSuoms129-37" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;b&gt;artpc18 (node)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-36">
           <mxGeometry width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="W81J2JQ0MfVwSuoms129-38" value="«component»&lt;br&gt;&lt;b&gt;System Configuration&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-36">
@@ -97,7 +97,7 @@
         <mxCell id="W81J2JQ0MfVwSuoms129-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="400" y="30" width="190" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="W81J2JQ0MfVwSuoms129-47" value="artpc17 (master)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-46">
+        <mxCell id="W81J2JQ0MfVwSuoms129-47" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;b&gt;artpc17 (master)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-46">
           <mxGeometry width="190" height="260" as="geometry" />
         </mxCell>
         <mxCell id="W81J2JQ0MfVwSuoms129-48" value="«component»&lt;br&gt;&lt;b&gt;System Configuration&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="W81J2JQ0MfVwSuoms129-46">
@@ -125,7 +125,7 @@
         <mxCell id="W81J2JQ0MfVwSuoms129-54" value="" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=6;verticalAlign=top;align=left;spacingLeft=5;" vertex="1" parent="W81J2JQ0MfVwSuoms129-52">
           <mxGeometry x="130" y="7.5" width="17.69" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="W81J2JQ0MfVwSuoms129-56" value="Ansible Client" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="W81J2JQ0MfVwSuoms129-56" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; &lt;b&gt;Ansible Client&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="W81J2JQ0MfVwSuoms129-65" value="«component»&lt;br&gt;&lt;b&gt;Playbooks&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
