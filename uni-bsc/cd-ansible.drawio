@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T17:48:31.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.14" etag="vXd7Ovevm9mSovFYZm0p" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T18:46:12.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a3bB10bD8tlHK3fz6e-A" version="24.4.14" type="github">
   <diagram name="Seite-1" id="Og4ClNEy-E3zu0bA_nxo">
-    <mxGraphModel>
+    <mxGraphModel dx="1481" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W81J2JQ0MfVwSuoms129-9" value="Ansible-Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-10" value="Playbooks" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-11" value="" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-12" value="Ansible" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="W81J2JQ0MfVwSuoms129-11">
+          <mxGeometry width="140" height="25" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-14" value="artpc17 (master)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-15" value="artpc18 (node)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-16" value="artpc19 (node)" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=70;entryDy=210;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W81J2JQ0MfVwSuoms129-9" target="W81J2JQ0MfVwSuoms129-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-21" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;br&gt;ssh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W81J2JQ0MfVwSuoms129-17">
+          <mxGeometry x="0.0596" y="4" relative="1" as="geometry">
+            <mxPoint x="-18" y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-18" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;br&gt;ssh" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=70;entryDy=210;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W81J2JQ0MfVwSuoms129-9" target="W81J2JQ0MfVwSuoms129-15">
+          <mxGeometry x="0.455" y="21" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=70;entryDy=210;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="W81J2JQ0MfVwSuoms129-9" target="W81J2JQ0MfVwSuoms129-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="325" as="sourcePoint" />
+            <mxPoint x="490" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W81J2JQ0MfVwSuoms129-20" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;br&gt;ssh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W81J2JQ0MfVwSuoms129-19">
+          <mxGeometry x="0.1343" relative="1" as="geometry">
+            <mxPoint x="-42" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
