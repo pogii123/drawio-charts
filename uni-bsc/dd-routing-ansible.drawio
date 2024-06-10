@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T13:03:43.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XU8ZRhFLSkZxeLFXjV4h" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T13:08:04.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PRIbr5cleBSsaXPojTAt" version="24.5.2" type="github">
   <diagram name="Seite-1" id="ety6VozThco01V0hG4by">
     <mxGraphModel dx="1663" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-41" value="«device»&amp;nbsp;&lt;b&gt;artpc18 (node)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="580" y="245" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1A0GOMXBw5Doz6MIAnEs-42" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;bridge &amp;amp; ip_forward&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="1A0GOMXBw5Doz6MIAnEs-42" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;ip_forward &amp;amp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bridge-nf-call-iptables = 1&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="590" y="360" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-43" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="1A0GOMXBw5Doz6MIAnEs-42" vertex="1">
@@ -78,7 +78,7 @@
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-46" value="«device»&amp;nbsp;&lt;b&gt;artpc19 (node)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="410" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1A0GOMXBw5Doz6MIAnEs-47" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;bridge &amp;amp; ip_forward&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="1A0GOMXBw5Doz6MIAnEs-47" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;ip_forward &amp;amp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bridge-nf-call-iptables = 1&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="360" y="525" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-48" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="1A0GOMXBw5Doz6MIAnEs-47" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-51" value="«device»&amp;nbsp;&lt;b&gt;artpc17 (master)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1A0GOMXBw5Doz6MIAnEs-52" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;bridge &amp;amp; ip_forward&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="1A0GOMXBw5Doz6MIAnEs-52" value="«SystemD Parameter»&lt;br&gt;&lt;b&gt;ip_forward &amp;amp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;bridge-nf-call-iptables = 1&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="370" y="225" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1A0GOMXBw5Doz6MIAnEs-53" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="1A0GOMXBw5Doz6MIAnEs-52" vertex="1">
