@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Seite-1" id="podOPkqIoY8BDx9PpH1g">
     <mxGraphModel dx="1780" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bd3uD_yKP8gj1FbGmQv1-12" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;«&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;protocol&lt;/span&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;»&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;ssh&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Bd3uD_yKP8gj1FbGmQv1-11" vertex="1" connectable="0">
+        <mxCell id="Bd3uD_yKP8gj1FbGmQv1-12" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;«&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;protocol&lt;/span&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;»&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;tcp: 6443&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Bd3uD_yKP8gj1FbGmQv1-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2613" y="2" relative="1" as="geometry">
             <mxPoint x="30" y="-20" as="offset" />
           </mxGeometry>
