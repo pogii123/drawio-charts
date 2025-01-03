@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Seite-1" id="SsOCYxwzpiLqpLyVivhC">
-    <mxGraphModel dx="2607" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1844" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sut6IgfdAZMAAdU67zym-39" value="Verteilungsdiagramm: Ansible Bereitstellung Absicherung" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=340;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="60" width="870" height="400" as="geometry" />
+          <mxGeometry x="-110" y="60" width="870" height="390" as="geometry" />
         </mxCell>
         <mxCell id="sut6IgfdAZMAAdU67zym-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-80" y="152.5" width="230" height="210" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry x="145.38461538461536" y="8.076923076923077" width="20.769230769230766" height="16.153846153846153" as="geometry" />
         </mxCell>
         <mxCell id="sut6IgfdAZMAAdU67zym-25" value="«device»&amp;nbsp;&lt;b&gt;artpc17 (master)&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="85" width="450" height="345" as="geometry" />
+          <mxGeometry x="280" y="89" width="450" height="331" as="geometry" />
         </mxCell>
         <mxCell id="sut6IgfdAZMAAdU67zym-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;endSize=9;" edge="1" parent="1" source="sut6IgfdAZMAAdU67zym-28">
           <mxGeometry relative="1" as="geometry">
@@ -100,8 +100,10 @@
             <mxPoint x="470" y="255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sut6IgfdAZMAAdU67zym-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=0;exitPerimeter=0;entryX=0.487;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sut6IgfdAZMAAdU67zym-33" target="sut6IgfdAZMAAdU67zym-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sut6IgfdAZMAAdU67zym-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sut6IgfdAZMAAdU67zym-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279" y="252" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sut6IgfdAZMAAdU67zym-60" value="ssh (tcp/22)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="90" height="30" as="geometry" />
