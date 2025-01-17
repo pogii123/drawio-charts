@@ -24,12 +24,13 @@
         <mxCell id="644JSV-Lswigd0aAAEQH-8" value="" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=6;verticalAlign=top;align=left;spacingLeft=5;" vertex="1" parent="644JSV-Lswigd0aAAEQH-6">
           <mxGeometry x="129.23076923076923" y="8.75" width="18.46153846153846" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="644JSV-Lswigd0aAAEQH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=145;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.552;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="644JSV-Lswigd0aAAEQH-2" target="644JSV-Lswigd0aAAEQH-1">
+        <mxCell id="644JSV-Lswigd0aAAEQH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.552;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="644JSV-Lswigd0aAAEQH-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="564" y="275" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="242" />
             </Array>
+            <mxPoint x="250" y="242" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="644JSV-Lswigd0aAAEQH-10" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;«&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;protocol&lt;/span&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;»&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;tcp: 6443&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="644JSV-Lswigd0aAAEQH-9">
