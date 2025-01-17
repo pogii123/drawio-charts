@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="644JSV-Lswigd0aAAEQH-2" value="«device» artpc17" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="200" height="210" as="geometry" />
+          <mxGeometry x="60" y="130" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="644JSV-Lswigd0aAAEQH-4" value="«component»&lt;br&gt;&lt;b&gt;Terraform Modul&lt;br&gt;tf-module-ipspatcher&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="250" width="160" height="80" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="564" y="275" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="242" />
+              <mxPoint x="250" y="242" />
             </Array>
           </mxGeometry>
         </mxCell>
