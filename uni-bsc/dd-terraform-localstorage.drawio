@@ -7,7 +7,7 @@
         <mxCell id="H8hfMKlNT23oGRBbjLYy-1" value="«device» artpc17" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="38" y="130" width="190" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="H8hfMKlNT23oGRBbjLYy-2" value="«component»&lt;br&gt;&lt;b&gt;Terraform Modul&lt;br&gt;tf-module-ssl-cert-issuing&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="H8hfMKlNT23oGRBbjLYy-2" value="«component»&lt;br&gt;&lt;b&gt;Terraform Modul&lt;br&gt;tf-module-local-persistant-volume&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="48" y="250" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H8hfMKlNT23oGRBbjLYy-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="H8hfMKlNT23oGRBbjLYy-2">
