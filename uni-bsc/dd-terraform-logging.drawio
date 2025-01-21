@@ -97,7 +97,7 @@
         <mxCell id="KZDxoFo9gupKd7PVNglU-40" value="" style="group" parent="KZDxoFo9gupKd7PVNglU-9" vertex="1" connectable="0">
           <mxGeometry x="375" y="300" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KZDxoFo9gupKd7PVNglU-41" value="«Helm Chart»&lt;div&gt;&lt;b&gt;filebeat&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="KZDxoFo9gupKd7PVNglU-40" vertex="1">
+        <mxCell id="KZDxoFo9gupKd7PVNglU-41" value="«Helm Chart»&lt;div&gt;&lt;b&gt;logstash&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="KZDxoFo9gupKd7PVNglU-40" vertex="1">
           <mxGeometry width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KZDxoFo9gupKd7PVNglU-42" value="" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=6;verticalAlign=top;align=left;spacingLeft=5;" parent="KZDxoFo9gupKd7PVNglU-40" vertex="1">
