@@ -19,7 +19,7 @@
         </mxCell>
         <mxCell id="-PpAgXhEHngQQX2RAuRQ-8" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;«&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;protocol&lt;/span&gt;&lt;span style=&quot;text-wrap-style: initial; background-color: rgb(251, 251, 251);&quot;&gt;»&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;tcp: 6443&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-PpAgXhEHngQQX2RAuRQ-7">
           <mxGeometry x="-0.2613" y="2" relative="1" as="geometry">
-            <mxPoint x="53" y="-23" as="offset" />
+            <mxPoint x="46" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-PpAgXhEHngQQX2RAuRQ-10" value="«cluster» Kubernetes Cluster" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="-PpAgXhEHngQQX2RAuRQ-9">
